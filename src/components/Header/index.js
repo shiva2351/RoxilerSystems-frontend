@@ -10,7 +10,7 @@ const Header =()=>{
             <Link to="adduser">add-new-user</Link> 
            </li>
            <li>
-            <Link to="dashboard">DashBoard</Link>
+            <Link to="login">Logout</Link>
              
            </li>
         </ul>

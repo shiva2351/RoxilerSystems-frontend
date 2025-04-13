@@ -11,7 +11,7 @@ const HeaderSecond =()=>{
             <Link to="password">reset pass</Link> 
            </li>
            <li>
-            <Link to="dashboard">DashBoard</Link>
+           <Link to="login">Logout</Link>
              
            </li>
         </ul>
