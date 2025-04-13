@@ -1,6 +1,6 @@
 const OwnerView=()=>{
     console.log("ownerview")
-    return <div>ownerview</div>
+    return <div><h1>ownerview</h1></div>
 }
 
 export default OwnerView
