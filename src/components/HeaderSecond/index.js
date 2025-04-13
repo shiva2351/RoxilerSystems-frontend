@@ -3,7 +3,8 @@ import "./index.css"
 const HeaderSecond =()=>{
     console.log("header")
     return <nav className="header">
-        <img alt="logo"/>
+        
+        <Link to="login"><img alt="logo"/></Link>
         <ul className="list">
            
            <li>
